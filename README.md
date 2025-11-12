@@ -24,6 +24,11 @@ Step into the role of digital architect—pick up a PRD, propose improvements, o
 - Share your repo in the [Aztec.nr Discord](https://discord.com/invite/JtqzkdeQ6G) so we can follow your progress.  
 - Open a PR here if you want to add or improve a PRD.
 
+- ### 📘 Aztec Handbook by Wonderland
+If you’re new to Aztec, check out the [Aztec Handbook](https://aztec.handbook.wonderland.xyz/) created by Wonderland.  
+It’s a concise guide that walks you through Aztec’s background, stack, contracts, and block production — perfect for getting oriented before diving into Horizon PRDs.  
+
+
 ---
 
 # 📂 PRD Library
